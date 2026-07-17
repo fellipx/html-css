@@ -1,12 +1,43 @@
 @charset "UTF-8";
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #1a1a1a;
+    margin-bottom: 40px;
+}
+
 .container-dos-links {
     column-count: 3;
-    column-gap: 20px;
+    column-gap: 40px;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .container-dos-links a {
     display: inline-block;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+.container-dos-links a:hover {
+    color: #ff5500;
+    text-decoration: underline;
+}
+
+.container-dos-links p {
+    margin: 0 0 12px 0;
+}
+
+.container-dos-links br {
+    display: none;
 }
