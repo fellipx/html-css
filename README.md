@@ -45,7 +45,8 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href="https://fellipx.github.io/html-css/exercícios/ex016/cor03.html">Executar o exercício 016c
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex017/fonte01.html">Executar o exercício 017</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex017/fonte01.html">Executar o exercício 017
+<br>
 <a href="https://fellipx.github.io/html-css/exercícios/ex017/fonte02.html">Executar o exercício 017b
 
 <p></p>
