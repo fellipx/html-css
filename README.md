@@ -13,7 +13,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex006/index.html">Executar o exercício 005</p>
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex006/html4.html">Executar o exercício 006</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex006/html4.html">Executar o exercício 006
 <a href="https://fellipx.github.io/html-css/exercícios/ex006/html5.html">Executar o exercício 006b
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex008/index.html">Executar o exercício 007</p>
@@ -22,7 +22,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex009/index.html">Executar o exercício 009</p>
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex010/index.html">Executar o exercício 010</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex010/index.html">Executar o exercício 010
 <a href="https://fellipx.github.io/html-css/exercícios/ex010/pag002.html">Executar o exercício 010b
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex011/index.html">Executar o exercício 011</p>
@@ -33,10 +33,10 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex014/index.html">Executar o exercício 014</p>
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex015/index.html">Executar o exercício 015</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex015/index.html">Executar o exercício 015
 <a href="https://fellipx.github.io/html-css/exercícios/ex015/pagina02.html">Executar o exercício 015b
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex016/cor01.html">Executar o exercício 016</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex016/cor01.html">Executar o exercício 016
 <a href="https://fellipx.github.io/html-css/exercícios/ex016/cor02.html">Executar o exercício 016b
 <a href="https://fellipx.github.io/html-css/exercícios/ex016/cor03.html">Executar o exercício 016c
 
@@ -48,13 +48,13 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex019/seletor01.html">Executar o exercício 019</p>
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex020/hover.html">Executar o exercício 020</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex020/hover.html">Executar o exercício 020
 <a href="https://fellipx.github.io/html-css/exercícios/ex020/links.html">Executar o exercício 020b
 <a href="https://fellipx.github.io/html-css/exercícios/ex020/pseudoclasse.html">Executar o exercício 020c
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex021/caixa01.html">Executar o exercício 021</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex021/caixa01.html">Executar o exercício 021
 <a href="https://fellipx.github.io/html-css/exercícios/ex021/caixa02.html">Executar o exercício 021b
 <a href="https://fellipx.github.io/html-css/exercícios/ex021/caixa03.html">Executar o exercício 021c
 
-<p><a href="https://fellipx.github.io/html-css/exercícios/ex022/fundo001.html">Executar o exercício 021</p>
+<a href="https://fellipx.github.io/html-css/exercícios/ex022/fundo001.html">Executar o exercício 021
 <a href="https://fellipx.github.io/html-css/exercícios/ex022/fundo002.html">Executar o exercício 021b
