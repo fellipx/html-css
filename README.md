@@ -3,6 +3,20 @@ Curso de HTML5 e CSS3 do CursoemVideo
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
+<style>
+.container-dos-links {
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.container-dos-links-a {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+</style>
+
+<div class="container-dos-links">
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001</p>
 
 <p><a href="https://fellipx.github.io/html-css/exercícios/ex002/index.html">Executar o exercício 002</p>
@@ -76,3 +90,4 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href="https://fellipx.github.io/html-css/exercícios/ex022/fundo001.html">Executar o exercício 021
 <br>
 <a href="https://fellipx.github.io/html-css/exercícios/ex022/fundo002.html">Executar o exercício 021b
+</div>
