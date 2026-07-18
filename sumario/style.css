@@ -40,3 +40,14 @@ h1 {
 .container-dos-links br {
     display: none;
 }
+
+summary {
+    color: #0066cc;
+    font-weight: bold;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+details a {
+    margin-left: 16px;
+}
